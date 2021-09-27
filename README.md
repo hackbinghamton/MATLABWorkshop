@@ -12,3 +12,4 @@ Welcome to our MATLAB workshop!
 - [Intermediate](Intermediate)
   - [Functions](https://colab.research.google.com/drive/1lrecs-MYe9DQjerRhChA57M-ZCQYr5M4?usp=sharing)
   - [Matrices](https://colab.research.google.com/drive/1G7dnnzQkQYEw-1PKfYgoyJrIY2-wpgxK?usp=sharing)
+  - [Fun Stuff in MATLAB](./Intermediate/MATLAB_FunMathStuff.ipynb)
